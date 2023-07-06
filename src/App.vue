@@ -2,6 +2,7 @@
   <div>
     <Header />
     <RouterView />
+    ㅗㅑㅗㅑ
   </div>
 </template>
 <script setup>

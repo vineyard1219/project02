@@ -11,7 +11,7 @@
     <a href="#"> Explorer </a>
     <a href="#"> Pools </a>
     <a href="#"> Catalyst </a>
-    <a href="#"> Community </a>
+    <v-btn> Community </v-btn>
     <a href="#"> History </a>
     <a href="#"> Dictionary </a>
     </div>

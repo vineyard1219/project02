@@ -2,6 +2,7 @@
   <div>
     <h1>hihi</h1>
     <v-btn>hihi</v-btn>
+    <v-btn>hihi</v-btn>
   </div>
 </template>
 
